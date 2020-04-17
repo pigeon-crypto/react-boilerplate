@@ -1,0 +1,14 @@
+{
+    "name": "react-boilerplate",
+    "version": "1.0.0",
+    "description": "react boilerplate: react+react-router+antd+less+concent",
+    "repository": "https://github.com/pigeon-crypto/react-boilerplate",
+    "author": "pigeon <flygo.lai@tron.network>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "start": "xx",
+        "test": "text",
+        "build": "build"
+    }
+}
